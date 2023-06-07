@@ -52,6 +52,6 @@ class jacked
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Ex05-Rec-JaggedArray/blob/main/out.png)
 ## Result:
 Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
